@@ -1,5 +1,5 @@
 import React, { useContext,useEffect} from 'react'
-import'./Main.css'
+import'./main.css'
 import { Assest } from '../../assets/Assest'
 import { Context } from '../../context/context'
 
